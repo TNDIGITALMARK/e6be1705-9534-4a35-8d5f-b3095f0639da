@@ -19,8 +19,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Elegant Flora Boutique",
-  description: "Beautiful AI-powered website creation platform",
+  title: "Bella Vista Italian Bistro | Contemporary Italian Cuisine",
+  description: "Experience exceptional contemporary Italian cuisine at Bella Vista. Located in downtown at 425 Oak Street. Reserve your table today for an unforgettable dining experience.",
 };
 
 export default function RootLayout({
